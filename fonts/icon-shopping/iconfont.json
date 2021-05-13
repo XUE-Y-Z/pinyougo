@@ -1,0 +1,30 @@
+{
+  "id": "2524934",
+  "name": "我的项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "722172",
+      "name": "arrow-right",
+      "font_class": "previewright",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "1166678",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "15838429",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    }
+  ]
+}
